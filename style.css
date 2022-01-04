@@ -164,12 +164,12 @@ section {
 /* trainer section */
 .trainers {
   text-align: center;
+}
+.trainer {
   width: 900px;
   margin: 0 auto 30px auto;
   color: #fce138;
   background: #024e76;
-}
-.trainer {
   overflow: auto;
 }
 .trainer img {
@@ -180,4 +180,23 @@ section {
   padding: 35px;
   float: left;
   width: 65%;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.trainers-bio h3 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+.trainers-bio h4 {
+  font-weight: lighter;
+  font-size: 26px;
+  margin-bottom: 25px;
+}
+.trainers-bio p {
+  font-size: 25px;
+  line-height: 1.3;
 }
