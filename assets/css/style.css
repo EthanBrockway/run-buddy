@@ -171,6 +171,7 @@ section {
 }
 .hero {
   background-image: url("../../images/hero-bg\ \(2\).jpg");
+  height: 600px;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -289,6 +290,7 @@ section {
 .radio-wrapper input:checked + label::after {
   content: "";
 }
+
 /* hero style end*/
 
 /* trainer section */
